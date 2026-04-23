@@ -97,17 +97,26 @@ footer {
 /* ==========================================
    Explorer(왼쪽 내비게이션) 파일 Hover 색상 고정
 ========================================== */
+/* Explorer(왼쪽 내비게이션) 글자 두께 조절 */
 .explorer {
-  /* 폴더 안에 있는 일반 파일('무제32' 같은) 기본 색상 */
-  ul li a {
-    color: var(--dark) !important; 
-    opacity: 1 !important;
+  /* 1. 기본 상태 (클릭 안 된 파일/폴더들) */
+  ul li > a {
+    color: var(--dark) !important;
+    font-weight: 400 !important;  /* 기존 500~700에서 400으로 낮춰서 얇게 만듦 */
+    opacity: 0.8 !important;      /* 살짝 투명도를 주면 시각적으로 더 얇고 가볍게 느껴집니다 */
   }
 
-  /* 💡 마우스 올렸을 때(Hover) 절대 옅어지지 않게 고정! */
-  ul li a:hover {
-    color: var(--secondary) !important; /* 포인트 색상으로 확 변하게 (옅어짐 방지) */
-    opacity: 1 !important;
-    text-decoration: underline !important;
+  /* 2. 현재 보고 있는 파일 (클릭된 상태) */
+  ul li > a.active {
+    color: var(--secondary) !important;
+    font-weight: 700 !important;  /* 현재 페이지는 확실하게 두껍게 */
+    opacity: 1 !important;        /* 투명도 없이 쨍하게 */
+  }
+
+  /* 3. 마우스 올렸을 때(Hover) */
+  ul li > a:hover {
+    opacity: 1 !important;        /* 마우스 올리면 다시 쨍해지게 */
+    font-weight: 600 !important;  /* 두께도 살짝만 두껍게 */
+    text-decoration: none !important; /* 밑줄이 거슬리면 none, 필요하면 underline */
   }
 }
