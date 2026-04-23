@@ -1,3 +1,22 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* 그래프 노드 알맹이 시원하게 키우기 */
+.graph-outer {
+  circle {
+    r: 6px !important;      /* 원래 2~3px인걸 6px로 뻥튀기 (더 키우고 싶으면 숫자를 올리세요) */
+    stroke-width: 1.5px !important; 
+  }
+
+  /* 마우스 올렸을 때나 현재 페이지 노드 강조 */
+  circle.highlight {
+    r: 10px !important; 
+  }
+
+  /* 노드 텍스트 두껍게 해서 잘 보이게 */
+  text {
+    font-size: 0.85rem !important;
+    font-weight: 600;
+  }
+}
