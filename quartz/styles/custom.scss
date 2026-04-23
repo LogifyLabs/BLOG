@@ -41,22 +41,24 @@
 
 /* 푸터(하단 영역) 텍스트 쨍하게 만들기 */
 footer {
-  color: var(--dark) !important; /* 글자 색상을 본문과 동일한 진한 색으로 */
-  opacity: 1 !important;         /* 혹시 걸려있을지 모를 투명도 제거 */
-  font-weight: 500;              /* 글자 굵기도 살짝 키워줌 (선택) */
+  color: var(--dark) !important;
+  opacity: 1 !important;
+  font-weight: 500;
   
-  /* 푸터 안의 일반 텍스트(p 태그) */
+  /* 💡 만약 왼쪽 정렬 말고 '가운데 정렬'을 하고 싶다면 아래 주석을 푸세요! */
+  /* text-align: center; */
+
   p {
     color: var(--dark) !important;
+    /* 요놈이 핵심입니다! 위아래 간격을 0.2rem으로 확 줄여줍니다 */
+    margin: 0.2rem 0 !important; 
   }
 
-  /* 푸터 안의 링크(a 태그) 색상 */
   a {
-    color: var(--secondary) !important; /* 사이트의 메인 포인트 색상 사용 */
+    color: var(--secondary) !important;
     font-weight: 600;
   }
 
-  /* 이메일 링크 마우스 올렸을 때 */
   a:hover {
     color: var(--tertiary) !important;
     text-decoration: underline;
