@@ -1,4 +1,4 @@
-![[hume3527_httpss.mj.runtxNoB96vUF0_minimal_--ar_169_--v_6_756e9db3-3d73-49a5-95bc-48e67e4426ab_0.png]]
+![[11.png]]
 
 # Logify
 
