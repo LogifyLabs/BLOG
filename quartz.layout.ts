@@ -1,18 +1,17 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// // components shared across all pages
-// export const sharedPageComponents: SharedLayout = {
-//   head: Component.Head(),
-//   header: [],
-//   afterBody: [],
-//   footer: Component.Footer({
-//     links: {
-//       GitHub: "https://github.com/jackyzha0/quartz",
-//       "Discord Community": "https://discord.gg/cRFFHYye7t",
-//     },
-//   }),
-// }
+// components shared across all pages
+export const sharedPageComponents: SharedLayout = {
+  head: Component.Head(),
+  header: [],
+  afterBody: [],
+  footer: Component.Footer({
+    links: {
+      // 주석 처리하거나 아예 지워버리면 하단 링크가 사라집니다.
+    },
+  }),
+}
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
