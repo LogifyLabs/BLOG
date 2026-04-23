@@ -41,17 +41,19 @@ export const defaultContentPageLayout: PageLayout = {
 
   right: [
     Component.Graph({
-      localGraph: {
-        repelForce: 0.8,      // 숫자가 클수록 노드끼리 멀리 밀어냄 (기본 0.5)
-        linkDistance: 50,     // 노드 사이의 선 길이
-        fontSize: 0.6,        // 노드 아래 글자 크기
-      },
-      globalGraph: {
-        repelForce: 0.8,
-        linkDistance: 50,
-        fontSize: 0.6,
-      },
-    }),
+  localGraph: {
+    repelForce: 6.0,      // 0.5에서 6.0으로 대폭 상향! 서로 엄청 밀어내게 함
+    linkDistance: 100,    // 선 길이를 100으로 확장
+    fontSize: 0.8,
+    centerForce: 0.5,
+  },
+  globalGraph: {
+    repelForce: 6.0,
+    linkDistance: 100,
+    fontSize: 0.8,
+    centerForce: 0.5,
+  },
+}),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
