@@ -37,12 +37,24 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
+// quartz.layout.ts 약 34~38행 사이 수정
+
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        repelForce: 0.8,      // 숫자가 클수록 노드끼리 멀리 밀어냄 (기본 0.5)
+        linkDistance: 50,     // 노드 사이의 선 길이
+        fontSize: 0.6,        // 노드 아래 글자 크기
+      },
+      globalGraph: {
+        repelForce: 0.8,
+        linkDistance: 50,
+        fontSize: 0.6,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
-}
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
