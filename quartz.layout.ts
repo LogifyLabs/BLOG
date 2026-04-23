@@ -1,13 +1,13 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// quartz.layout.ts 파일
+// components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {}, // 요렇게 비워두면 하단 링크가 싹 사라집니다.
+    links: {}, 
   }),
 }
 
@@ -37,26 +37,27 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-// quartz.layout.ts 약 34~38행 사이 수정
-
   right: [
     Component.Graph({
-  localGraph: {
-    repelForce: 6.0,      // 0.5에서 6.0으로 대폭 상향! 서로 엄청 밀어내게 함
-    linkDistance: 100,    // 선 길이를 100으로 확장
-    fontSize: 0.8,
-    centerForce: 0.5,
-  },
-  globalGraph: {
-    repelForce: 6.0,
-    linkDistance: 100,
-    fontSize: 0.8,
-    centerForce: 0.5,
-  },
-}),
+      localGraph: {
+        repelForce: 6.0,      // 노드끼리 멀리 밀어냄
+        linkDistance: 100,    // 선 길이 확장
+        fontSize: 0.8,
+        centerForce: 0.5,
+        showOrphans: true,    // 링크 없는 노드도 표시
+      },
+      globalGraph: {
+        repelForce: 6.0,
+        linkDistance: 100,
+        fontSize: 0.8,
+        centerForce: 0.5,
+        showOrphans: true,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+} // <--- 여기가 잘 닫혀있어야 합니다!
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {

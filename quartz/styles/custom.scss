@@ -1,14 +1,38 @@
+/* D:logifylab\quartz\styles\custom.scss */
 @use "./base.scss";
 
-// put your custom CSS here!
-.graph-outer {
-  circle {
-    r: 12px !important;       /* 12px이면 이제 못 볼 수가 없습니다 */
-    fill: #39a2db !important;  /* 눈에 잘 띄는 파란색 */
-    opacity: 1 !important;
-  }
-  text {
-    font-size: 1.2rem !important; /* 글자도 대왕만하게 */
-    fill: var(--dark) !important;
+// 그래프 노드를 진짜 대왕만하게 만드는 핵폭탄급 코드
+.graph-view-container {
+  svg {
+    circle {
+      r: 15px !important;       /* 12px보다 더 키운 15px */
+      fill: #39a2db !important; 
+      fill-opacity: 1 !important;
+      stroke: #ffffff !important;
+      stroke-width: 2px !important;
+    }
+
+    // 마우스 올렸을 때 강조되는 노드
+    circle.highlight {
+      r: 20px !important;
+      fill: #ff4757 !important;
+    }
+
+    // 노드끼리 잇는 선(거미줄)
+    line {
+      stroke: #ffffff !important;
+      stroke-width: 2px !important;
+      stroke-opacity: 0.8 !important;
+    }
+
+    // 노드 이름(글자)
+    text {
+      font-size: 1.2rem !important;
+      font-weight: 800 !important;
+      fill: #ffffff !important;
+      opacity: 1 !important;
+      // 글자가 노드에 겹치지 않게 위치 조정
+      transform: translateY(-25px); 
+    }
   }
 }
