@@ -1,0 +1,38 @@
+### 정의
+
+**재무 자본(Financial Capital)**은 **[[멀티캐피털 모델 (Multicapitals Model)]]**의 여섯 가지 자본 중 하나로, 조직이나 시스템이 운영에 사용하는 **현금, 대출, 투자금, 자금 조달원** 등 전통적인 **금전적 자산**을 의미합니다. 이는 시스템의 생존과 확장, 그리고 다른 자본(예: **[[인적 자본 (Human Capital)]]** 투자, **[[제조 자본 (Manufactured Capital)]]** 구매)에 대한 투자를 가능하게 하는 **경제적 유동성**을 제공합니다.
+
+### 💰 핵심 구성 요소
+
+재무 자본은 시스템의 경제적 건전성을 나타내는 핵심 지표입니다.
+
+1. **자금 조달 (Funding):** 자본 시장, 은행, 투자자, 또는 정부 보조금 등으로부터 확보한 자금.
+    
+2. **부채 및 자산 (Debt & Assets):** 시스템이 보유한 현금, 매출 채권 등의 자산과 상환해야 할 부채의 총액.
+    
+3. **수익성 (Profitability):** 운영 활동을 통해 창출되는 순이익.
+    
+
+### 🛠️ 시스테믹 디자인에서의 역할
+
+시스테믹 디자인은 재무 자본을 **다른 자본을 위한 수단**으로 간주하며, 단기적인 재무 이익 극대화를 넘어 **총체적인 시스템 가치**를 창출하는 데 중점을 둡니다.
+
+- **투자 및 지속 가능성:** 재무 자본은 시스템의 **[[변화 디자인 (Change Design)]]**과 **[[개입 전략 (Intervention Strategy)]]**을 실행하기 위한 **실질적인 투자 재원**을 제공합니다. 안정적인 재무 상태는 장기적인 지속 가능성을 위한 필수 조건입니다.
+    
+- **균형점 진단:** 디자인 개입은 **[[재무 자본 (Financial Capital)]]**이 **[[자연 자본 (Natural Capital)]]**이나 **[[사회 및 관계 자본 (Social & Relationship Capital)]]**을 고갈시키지 않도록 균형을 맞추는 데 초점을 맞춥니다.
+    
+- **[[시스템 성과 측정 (System Performance Measurement)]]** **기준:** 재무 지표는 시스템의 총체적 성과를 측정하는 중요한 축 중 하나이지만, **[[멀티캐피털 모델 (Multicapitals Model)]]** 내에서만 의미 있는 해석이 가능합니다.
+
+---
+**Tags:** #멀티캐피털, #경제적가치, #자산관리, #지속가능성, #MOC_시스테믹디자인 
+
+**연결 노트:** [[멀티캐피털 모델 (Multicapitals Model)]], [[시스템 성과 측정 (System Performance Measurement)]], [[멀티캐피털 모델 (Multicapitals Model)]], [[MOC_시스테믹 디자인]]
+
+**작성일:** 25-10-25
+
+---
+
+_© 2025 Logify-Lab. Some Rights Reserved._  
+이 저작물은 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)에 따라 이용할 수 있습니다.
+
+[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

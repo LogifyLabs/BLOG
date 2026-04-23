@@ -1,0 +1,23 @@
+### 정의
+
+상향식(Bottom-up)으로 주제를 발전시킨다는 것은, 글을 쓰기 전에 미리 주제를 정하는 하향식(Top-down) 접근법을 버리는 것을 의미합니다.
+
+이 방식은 [[주제별 분류의 함정을 벗어나라]]는 원칙의 직접적인 결과입니다. 우리는 [[아토믹 노트 (Atomic Note)]]를 하나씩 추가하고 연결할 뿐, 어떤 주제가 될지는 미리 계획하지 않습니다.
+
+대신, [[지식의 네트워크 모델 (Knowledge as a Network)]] 안에서 노트들이 자연스럽게 군집(Cluster)을 이루고, 아이디어 간의 연결이 빽빽해지는 지점이 생겨납니다. **이 군집이 바로 '주제'입니다.** 우리는 주제를 발명하는 것이 아니라, 이미 형성된 주제를 '발견'합니다.
+
+[[니클라스 루만 (Niklas Luhmann)]]은 이 방식을 통해 자신의 흥미가 이끄는 대로 노트를 추가하며 주제가 스스로 떠오르도록 했습니다. 이는 [[글쓰기가 놀랍도록 쉬워진다]]의 핵심 조건입니다.
+
+---
+**Tags:** #바텀업 #주제발견 #제텔카스텐 #워크플로우 #니클라스루만 #탐색
+
+**연결 노트:** [[MOC_제텔카스텐]], [[바텀업(Bottom-up) 방식]], [[주제별 분류의 함정을 벗어나라]], [[지식의 네트워크 모델 (Knowledge as a Network)]], [[글쓰기가 놀랍도록 쉬워진다]]
+
+**작성일:** 25-10-22 
+
+---
+
+_© 2025 Logify-Lab. Some Rights Reserved._  
+이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
+
+[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

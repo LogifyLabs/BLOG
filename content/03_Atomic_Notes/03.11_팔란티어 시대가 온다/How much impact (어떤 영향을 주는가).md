@@ -1,0 +1,26 @@
+### 정의
+
+**How much impact? (어떤 영향을 주는가?)**는 [[팔란티어의 세 가지 질문 (The Three Questions)]] 중 두 번째 질문입니다.
+
+이 질문의 목적은 [[What decision (어떤 의사결정을 내려야 하는가)]] 단계에서 정의된 "구체적인 의사결정 단위"가 비즈니스에 미치는 영향을 파악하는 것입니다.
+
+이는 "해결했을 때의 **정량적 •정성적 효과**와 실패했을 때의 **손실을 추정**"하는 과정을 포함하며, 이를 통해 "문제 해결의 **우선순위**를 판단"합니다. 이 질문은 한정된 자원을 가장 가치 있는 문제에 집중하도록 보장하는 역할을 합니다.
+
+(사례: [우선 처리 건을 잘 선정했을 때] 긍정적 영향(브랜드 파워 개선, 고객 만족 지수 개선) 강화, [실패했을 때] 부정적 영향(충성 고객 이탈, 대외 이미지 하락) 축소)
+
+---
+
+**Tags:** #팔란티어 #방법론 #프레임워크 #문제정의 #우선순위 #ROI
+
+**연결 노트:** [[팔란티어의 세 가지 질문 (The Three Questions)]], [[What decision (어떤 의사결정을 내려야 하는가)]], [[문제 정의 (Problem Definition)]], [[마이크로코스모스 (Microcosmos)]], [[발제문_팔란티어 시대가 온다]], [[MOC_팔란티어 시대가 온다]]
+
+**작성일:** 2025-10-22
+
+
+
+---
+
+_© 2025 Logify-Lab. Some Rights Reserved._  
+이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
+
+[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

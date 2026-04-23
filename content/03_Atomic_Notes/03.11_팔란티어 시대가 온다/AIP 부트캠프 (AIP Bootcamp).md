@@ -1,0 +1,24 @@
+
+### 정의
+
+**AIP 부트캠프 (AIP Bootcamp)**는 팔란티어가 운영하는 프로그램으로, "기업의 문제 해결을 위한 **실행형 AI 운영체제**를 구축"하는 것을 목표로 합니다.
+
+이 프로그램은 "단순한 UI 교육이 아니라", 팔란티어의 핵심 방법론 전 과정을 실습하는 데 중점을 둡니다.
+
+참가자들은 5일(주: 기간은 본문에 명시되지 않았으나, 통상적인 부트캠프 기간을 가정함. 본문 내용은 '전 과정 실습'임) 동안 "‘**[[문제 정의 (Problem Definition)]]** — **[[온톨로지 (Ontology)]]** 설계 — 워크플로 자동화 — AI 에이전트 배포’ **전 과정을 실습**"합니다. 이는 [[문제 정의 (Problem Definition)]]에서 시작해 [[온톨로지 (Ontology)]]를 거쳐 실제 '실행'까지 연결하는 팔란티어의 핵심 개발 사이클을 압축적으로 경험하게 하는 과정입니다.
+
+---
+
+**Tags:** #팔란티어 #AIP #부트캠프 #방법론 #실행형AI #온톨로지 #문제정의
+
+**연결 노트:** [[문제 정의 (Problem Definition)]], [[온톨로지 (Ontology)]], [[데이터-로직-액션 통합 모델 (Data-Logic-Action Model)]], [[로컬 재단사 - SAP 인증 모델 (Local Tailor - SAP Model)]], [[발제문_팔란티어 시대가 온다]], [[MOC_팔란티어 시대가 온다]]
+
+**작성일:** 2025-10-22
+
+
+---
+
+_© 2025 Logify-Lab. Some Rights Reserved._  
+이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
+
+[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

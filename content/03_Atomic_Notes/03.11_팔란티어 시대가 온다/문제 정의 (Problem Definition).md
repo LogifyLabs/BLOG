@@ -1,0 +1,21 @@
+### 정의
+
+문제 정의 (Problem Definition)는 팔란티어 철학의 핵심이자 모든 프로젝트의 **출발점**입니다. 이는 '문제 해결(Solving)'에 앞서 "무엇이 진짜 문제인지"를 명확히 규정하고 구조화하는 **'문제 정의(Defining)'** 행위 그 자체를 의미합니다.
+
+팔란티어는 대부분의 기업이 "데이터로 문제를 정의해본 경험이 부족"한 것을 근본적인 실패 원인으로 진단합니다. 이에 따라 팔란티어의 엔지니어는 스스로를 '문제 해결자'가 아니라 **'문제 정의자'**로 규정합니다.
+
+이 접근법은 "제대로 된 온톨로지 레이어 설계란... **‘문제 정의의 방식 자체를 디지털 언어로 재정의하는 작업’**"이라는 정의로 이어집니다. 즉, [[온톨로지 (Ontology)]]는 이 '문제 정의'의 결과물이자 디지털 구현체입니다.
+
+---
+**Tags:** #팔란티어 #철학 #방법론 #온톨로지
+
+**연결 노트:** [[온톨로지 (Ontology)]], [[팔란티어의 세 가지 질문 (The Three Questions)]], [[AIP 부트캠프 (AIP Bootcamp)]], [[발제문_팔란티어 시대가 온다]], [[MOC_팔란티어 시대가 온다]]
+
+**작성일:** 2025-10-22
+
+---
+
+_© 2025 Logify-Lab. Some Rights Reserved._  
+이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
+
+[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

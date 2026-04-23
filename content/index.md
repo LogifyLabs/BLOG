@@ -1,4 +1,5 @@
-![[11.png]]
+
+![[content/90-Attachments/11.png]]
 
 # Logify
 

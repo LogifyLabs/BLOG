@@ -1,0 +1,29 @@
+### 정의
+
+**What decision (어떤 의사결정을 내려야 하는가)**는 [[팔란티어의 세 가지 질문 (The Three Questions)]] 중 첫 번째 질문입니다.
+
+이 질문의 핵심 목적은 "불분명한 증상이나 현상을 넘어서 구체적인 **의사결정 단위(decision unit)**로 문제를 구조화"하는 것입니다. 즉, '고객 불만이 많다'와 같은 모호한 현상이 아니라, '2,000여 건의 상담 중 어떤 것을 우선 처리할 것인가?'처럼 명확히 실행(Action)할 수 있는 '결정'의 형태로 [[문제 정의 (Problem Definition)]]를 수행하는 것입니다.
+
+이는 프로젝트의 최종 목표가 단순한 분석이나 보고서가 아님을 명확히 하고, [[데이터-로직-액션 통합 모델 (Data-Logic-Action Model)]]의 최종 단계인 '액션(Action)'을 기획의 가장 첫 단계에서 정의하도록 강제하는 역할을 합니다.
+
+(사례: 불만족 고객의 요구를 빠르게 충족하기 위해 2,000여 건의 상담 중 우선 처리 건 선정)
+
+---
+
+**Tags:** #팔란티어 #방법론 #프레임워크 #문제정의 #의사결정
+
+**연결 노트:** [[팔란티어의 세 가지 질문 (The Three Questions)]], [[문제 정의 (Problem Definition)]], [[데이터-로직-액션 통합 모델 (Data-Logic-Action Model)]], [[발제문_팔란티어 시대가 온다]], [[MOC_팔란티어 시대가 온다]]
+
+**작성일:** 2025-10-22
+
+
+
+
+
+
+---
+
+_© 2025 Logify-Lab. Some Rights Reserved._  
+이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
+
+[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

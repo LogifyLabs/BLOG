@@ -1,0 +1,27 @@
+### 정의
+
+**Where data? (필요한 데이터는 어디에 있는가?)**는 [[팔란티어의 세 가지 질문 (The Three Questions)]] 중 세 번째 질문입니다.
+
+이 질문의 목적은 [[What decision (어떤 의사결정을 내려야 하는가)]] 단계에서 정의된 '결정'을 내리는 데 "필요한 데이터는 무엇이며, 그 데이터를 확보할 수 있는가?"를 묻는 것입니다.
+
+이는 데이터의 **"가용성과 품질을 확인"**하고, "실현 가능한 분석 계획을 수립"하는 구체적인 단계입니다. 이 과정을 통해 [[온톨로지 (Ontology)]]를 구성할 [[객체 (Object)]]의 원천(Source)을 식별하게 됩니다.
+
+(사례: [우선 처리 건 선정을 위해] 콜센터 상담 고객 음성 데이터, 상담 내용에 따른 사내 업무 시스템 데이터(분양, 임대, 하자보수 등) 확보)
+
+---
+
+**Tags:** #팔란티어 #방법론 #프레임워크 #문제정의 #데이터소스
+
+**연결 노트:** [[팔란티어의 세 가지 질문 (The Three Questions)]], [[What decision (어떤 의사결정을 내려야 하는가)]], [[객체 (Object)]], [[온톨로지 (Ontology)]], [[발제문_팔란티어 시대가 온다]], [[MOC_팔란티어 시대가 온다]]
+
+**작성일:** 2025-10-22
+
+
+
+
+---
+
+_© 2025 Logify-Lab. Some Rights Reserved._  
+이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
+
+[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

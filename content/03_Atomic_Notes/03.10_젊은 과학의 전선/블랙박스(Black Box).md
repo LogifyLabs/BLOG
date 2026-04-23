@@ -1,0 +1,35 @@
+### 정의
+
+브뤼노 라투르가 [[기성 과학 (Ready-made Science)]]의 상태를 비유적으로 이르는 용어입니다.
+
+**'블랙박스'는 과학적 사실이나 기술적 장치가 모든 [[힘겨루기 (Trials of Strength)]]에서 승리하여 논쟁이 종결되고, 그 내부의 복잡한 작동 원리나 그것이 만들어지기까지의 혼란스러운 역사(즉, [[만들어지는 과학 (Science in the Making)]]의 과정)가 더 이상 문제시되지 않는 안정화된 상태를 의미합니다.**
+
+일단 '블랙박스'가 되면, 사람들은 그 안에서 어떤 일이 일어나는지(How) 묻지 않고, 오직 **입력(Input)과 출력(Output)에만** 관심을 둡니다.
+
+- **예시:** 우리는 DNA가 이중 나선 구조라는 '사실'을 받아들이고(입력), 이를 바탕으로 다음 연구를 진행(출력)합니다. 그 '사실'이 왓슨, 크릭, 프랭클린 사이의 어떤 치열한 논쟁과 '힘겨루기'를 통해 탄생했는지(내부)는 굳이 묻지 않습니다.
+    
+
+라투르는 이 블랙박스를 닫힌 '판도라의 상자'에 비유합니다. 그것을 여는 순간(즉, '만들어지는 과학'의 과정을 다시 들여다보는 순간), 그 안에서 논쟁, 불확실성, 수많은 [[인간 행위자 (Human Actor)]]`와 `[[비인간 행위자 (Non-human Actor)]]`들이 쏟아져 나오게 됩니다.
+
+---
+
+**Tags:** #개념 #과학철학 #라투르 #기성_과학 #사실_구축 #안정화
+
+**연결 노트:** [[MOC_젊은 과학의 전선 (Science in Action)]]
+    
+- [[기성 과학 (Ready-made Science)]] (블랙박스의 상태)
+    
+- [[만들어지는 과학 (Science in the Making)]] (블랙박스가 닫히기 전의 상태)
+    
+- [[힘겨루기 (Trials of Strength)]] (블랙박스를 닫기 위한 과정)
+    
+- [[번역 (Translation)]] (블랙박스를 구성하는 연결망이 만들어지는 과정)
+    
+- [[야누스의 두 얼굴 (Janus Head)]] (왼쪽 얼굴이 보는 것)
+
+---
+
+_© 2025 Logify-Lab. Some Rights Reserved._  
+이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
+
+[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

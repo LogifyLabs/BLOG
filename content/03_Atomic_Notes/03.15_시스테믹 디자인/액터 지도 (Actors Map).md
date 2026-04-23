@@ -1,0 +1,44 @@
+### 정의
+
+**액터 지도(Actors Map)**는 시스템 내외부의 **모든 행위자(Actors)**, 즉 **[[이해관계자 (Stakeholder)]]**를 식별하고, 이들 간의 **관계, 영향력(권력), 그리고 상호 작용의 패턴**을 시각적으로 표현하는 진단 및 탐색 도구입니다. 이는 시스템을 움직이는 주체들을 파악하여 **[[리치 콘텍스트 (Rich Context)]]**를 구성하고, **시스템의 경계**를 명확히 하는 데 필수적입니다.
+
+### 👥 액터 지도의 핵심 요소
+
+액터 지도는 시스템의 복잡한 사회적 역학을 이해하는 데 중점을 둡니다.
+
+1. **액터 식별 (Identification):**
+    
+    - 개인(User), 조직(Company), 비인간적 요소(Non-human entities, 예: 법률, 인공지능, 자연환경) 등 시스템과 관련된 모든 직간접적 행위자를 식별합니다.
+        
+2. **관계 및 상호작용 (Relationship):**
+    
+    - 액터들 간의 **연결(Links)**, **협력(Collaboration)**, **갈등(Conflict)**의 성격을 화살표나 선으로 표현합니다. 이는 **[[사회 및 관계 자본 (Social & Relationship Capital)]]**의 현재 상태를 진단하는 데 중요합니다.
+        
+3. **영향력 및 입장 (Power & Position):**
+    
+    - 각 액터가 시스템에 미치는 **권력(Power)**이나 **이해관계(Interest)**를 크기, 색상, 또는 축(Matrix)을 사용하여 지도 위에 표시합니다. (예: 영향력-관심도 매트릭스).
+        
+
+### 🔑 시스테믹 디자인에서의 역할
+
+액터 지도는 디자인 프로세스의 초기 단계에서 전략적 통찰을 제공합니다.
+
+- **잠재적 저항 파악:** 변화에 가장 큰 **저항**을 보일 액터(고권력/저관심 또는 반대하는 입장)를 사전에 식별하여 **[[변화 준비도 평가 (Change Readiness Assessment)]]**와 **[[개입 전략 (Intervention Strategy)]]** 수립에 반영합니다.
+    
+- **새로운 파트너 발굴:** 현재 시스템에 참여하지 않지만 미래의 **[[미래 상태 시나리오 (Future State Scenarios)]]** 달성에 필수적인 **새로운 협력자(H3 액터)**를 찾아내는 데 활용됩니다.
+    
+- **개입 지점 선택:** 영향력이 높은 액터가 속한 **[[피드백 루프 (Feedback Loop)]]**에 개입하거나, **[[생태계 거버넌스 (Ecosystem Governance)]]** 구조를 변경할 필요성을 진단하는 기반을 마련합니다.
+
+---
+**Tags:** #이해관계자분석 #시스템경계 #권력관계 #탐색도구 #MOC_시스테믹디자인
+
+**연결 노트:** [[이해관계자 (Stakeholder)]], [[리치 콘텍스트 (Rich Context)]], [[맥락 인터뷰 (Contextual Interview)]], [[사회 및 관계 자본 (Social & Relationship Capital)]], [[MOC_시스테믹 디자인]]
+
+**작성일:**
+
+---
+
+_© 2025 Logify-Lab. Some Rights Reserved._  
+이 저작물은 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)에 따라 이용할 수 있습니다.
+
+[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

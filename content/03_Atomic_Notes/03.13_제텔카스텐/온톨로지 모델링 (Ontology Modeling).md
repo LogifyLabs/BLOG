@@ -1,0 +1,23 @@
+### 정의
+
+온톨로지 모델링은 특정 도메인(영역)의 지식 구조를 **명시적으로 정의**하는 작업입니다. 이는 암묵적으로 이해되던 지식을 '개념(Concept)'과 '개념 간의 관계(Relation)'로 형식화하여 명확한 체계로 변환하는 과정입니다.
+
+제텔카스텐이 [[바텀업(Bottom-up) 방식]]으로 [[지식의 네트워크 모델 (Knowledge as a Network)]]을 구축하는 것이라면, 온톨로지 모델링은 그 **'연결'에 명확한 의미(시맨틱)를 부여**하는 것과 같습니다.
+
+단순히 [[하나의 아이디어는 다양한 맥락에 연결된다]]에서 그치는 것이 아니라, 그 연결이 'A는 B를 포함한다', 'C는 D의 원인이다', 'E는 F에 의존한다'와 같이 '관계의 유형'을 명확히 정의합니다.
+
+이는 [[콘셉트 기반 설계 (Concept-based Design)]]가 시스템의 '핵심 개념'을 명확히 정의하는 것과 철학적으로 맞닿아 있으며, 지식에 질서를 부여하여 검색 가능성과 추론 가능성을 확보하게 만듭니다.
+
+---
+**Tags:** #온톨로지 #모델링 #지식표현 #개념 #관계정의 #시맨틱 #도메인지식
+
+**연결 노트:** [[MOC_제텔카스텐]], [[콘셉트 기반 설계 (Concept-based Design)]], [[지식의 네트워크 모델 (Knowledge as a Network)]], [[하나의 아이디어는 다양한 맥락에 연결된다]]
+
+**작성일:** 25-10-22
+
+---
+
+_© 2025 Logify-Lab. Some Rights Reserved._  
+이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
+
+[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

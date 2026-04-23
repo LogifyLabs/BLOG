@@ -1,0 +1,21 @@
+### 정의
+
+바텀업(Bottom-up) 방식은 미리 정해진 상위 주제나 계층 구조(Top-down)에 맞춰 정보를 분류하는 대신, 개별적인 [[아토믹 노트 (Atomic Note)]]에서 시작하여 연결을 통해 자연스럽게 주제와 구조가 떠오르도록 하는 접근법입니다.
+
+이것은 [[니클라스 루만 (Niklas Luhmann)]]이 [[주제별 분류의 함정을 벗어나라]]고 경고한 것에 대한 직접적인 해결책입니다. 우리는 어떤 아이디어가 미래에 어떤 더 큰 맥락의 일부가 될지 미리 알 수 없습니다.
+
+제텔카스텐에서 [[메모를 주제가 아닌 '고유 번호'로 관리]] 한다는 원칙은 이 바텀업 방식을 가능하게 합니다. 각 노트는 독립적인 개념으로 존재하며, 이 노트들이 서로 연결되면서 [[지식의 네트워크 모델 (Knowledge as a Network)]]을 형성합니다. 이 네트워크 안에서 아이디어의 군집(Cluster)이 자연스럽게 형성되고, 이것이 곧 글의 주제가 됩니다.
+
+---
+**Tags:** #바텀업 #제텔카스텐 #워크플로우 #니클라스루만 #지식의네트워크모델 #접근법
+
+**연결 노트:** [[MOC_제텔카스텐]], [[주제별 분류의 함정을 벗어나라]], [[메모를 주제가 아닌 '고유 번호'로 관리]] [[니클라스 루만 (Niklas Luhmann)]] [[지식의 네트워크 모델 (Knowledge as a Network)]]
+
+**작성일:** 25-10-22
+
+---
+
+_© 2025 Logify-Lab. Some Rights Reserved._  
+이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
+
+[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)
