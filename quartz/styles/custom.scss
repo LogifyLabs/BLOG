@@ -36,3 +36,76 @@
     }
   }
 }
+
+
+
+/* 푸터(하단 영역) 텍스트 쨍하게 만들기 */
+footer {
+  color: var(--dark) !important; /* 글자 색상을 본문과 동일한 진한 색으로 */
+  opacity: 1 !important;         /* 혹시 걸려있을지 모를 투명도 제거 */
+  font-weight: 500;              /* 글자 굵기도 살짝 키워줌 (선택) */
+  
+  /* 푸터 안의 일반 텍스트(p 태그) */
+  p {
+    color: var(--dark) !important;
+  }
+
+  /* 푸터 안의 링크(a 태그) 색상 */
+  a {
+    color: var(--secondary) !important; /* 사이트의 메인 포인트 색상 사용 */
+    font-weight: 600;
+  }
+
+  /* 이메일 링크 마우스 올렸을 때 */
+  a:hover {
+    color: var(--tertiary) !important;
+    text-decoration: underline;
+  }
+}
+
+/* 로고(타이틀) Hover 시 색상 변경 */
+.page-title a:hover {
+  color: var(--secondary) !important; /* 사이트 메인 포인트 색상으로! 더 진하게 하려면 색상 코드 직접 입력(예: #0056b3) */
+  transition: color 0.2s ease;
+}
+
+
+
+/* ==========================================
+   검색창(Search) 쨍하게 만들기
+========================================== */
+.search-button {
+  color: var(--dark) !important;           /* 'Search' 글자 색상 진하게 */
+  background-color: rgba(0, 0, 0, 0.03); /* 배경을 아주 살짝 어둡게 해서 박스 형태 강조 */
+  border: 1px solid var(--gray) !important; /* 테두리 선도 조금 더 잘 보이게 */
+  opacity: 1 !important;                   /* 기본 투명도 날려버림 */
+}
+
+/* 돋보기 아이콘 진하게 */
+.search-button svg {
+  stroke: var(--dark) !important; 
+}
+
+/* 검색창에 마우스 올렸을 때 */
+.search-button:hover {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+
+
+/* ==========================================
+   Explorer(왼쪽 내비게이션) 파일 Hover 색상 고정
+========================================== */
+.explorer {
+  /* 폴더 안에 있는 일반 파일('무제32' 같은) 기본 색상 */
+  ul li a {
+    color: var(--dark) !important; 
+    opacity: 1 !important;
+  }
+
+  /* 💡 마우스 올렸을 때(Hover) 절대 옅어지지 않게 고정! */
+  ul li a:hover {
+    color: var(--secondary) !important; /* 포인트 색상으로 확 변하게 (옅어짐 방지) */
+    opacity: 1 !important;
+    text-decoration: underline !important;
+  }
+}

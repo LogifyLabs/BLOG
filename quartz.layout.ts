@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// components for pages that display a single page (e.g. a single note)
+// 1. 일반 노트 페이지 레이아웃 (여기서도 폴더가 펼쳐져야 함!)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
@@ -35,16 +35,19 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    // ★ 여기서도 옵션을 넣어줘야 합니다!
+    Component.Explorer({
+      folderClickBehavior: "collapse", 
+    }),
   ],
   right: [
     Component.Graph({
       localGraph: {
-        repelForce: 6.0,      // 노드끼리 멀리 밀어냄
-        linkDistance: 100,    // 선 길이 확장
+        repelForce: 6.0,
+        linkDistance: 100,
         fontSize: 0.8,
         centerForce: 0.5,
-        showOrphans: true,    // 링크 없는 노드도 표시
+        showOrphans: true,
       },
       globalGraph: {
         repelForce: 6.0,
@@ -57,9 +60,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
-} // <--- 여기가 잘 닫혀있어야 합니다!
+}
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// 2. 폴더/리스트 페이지 레이아웃 (사용자님이 고치셨던 부분)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -74,7 +77,10 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    // ★ 여기도 옵션 적용 완료
+    Component.Explorer({
+      folderClickBehavior: "collapse", 
+    }),
   ],
   right: [],
 }
