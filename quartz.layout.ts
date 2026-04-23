@@ -1,15 +1,13 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// components shared across all pages
+// quartz.layout.ts 파일
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {
-      // 주석 처리하거나 아예 지워버리면 하단 링크가 사라집니다.
-    },
+    links: {}, // 요렇게 비워두면 하단 링크가 싹 사라집니다.
   }),
 }
 
