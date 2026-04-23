@@ -1,34 +1,14 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-
-/* 그래프 노드를 대왕만하게 키우기 */
 .graph-outer {
   circle {
-    r: 10px !important;       /* 쥐좆만한 2px에서 10px로 5배 뻥튀기 */
-    fill: #7b97aa !important;  /* 노드 색상 (밝은 하늘색 계열) */
-    stroke: #ffffff !important; /* 테두리 하얗게 */
-    stroke-width: 2px !important;
-    opacity: 1 !important;    /* 투명도 없이 진하게 */
+    r: 12px !important;       /* 12px이면 이제 못 볼 수가 없습니다 */
+    fill: #39a2db !important;  /* 눈에 잘 띄는 파란색 */
+    opacity: 1 !important;
   }
-
-  /* 현재 페이지 노드 강조 */
-  circle.highlight {
-    r: 14px !important;
-    fill: #ff4757 !important;  /* 현재 페이지는 빨간색으로 강조 */
-  }
-
-  /* 연결선(거미줄) 더 진하게 */
-  line {
-    stroke: #ffffff !important;
-    stroke-width: 1.5px !important;
-    stroke-opacity: 0.8 !important;
-  }
-
-  /* 글자 크기 키우기 */
   text {
-    font-size: 1rem !important; /* 글자 크기 대폭 상향 */
-    fill: #ffffff !important;
-    font-weight: 800 !important;
+    font-size: 1.2rem !important; /* 글자도 대왕만하게 */
+    fill: var(--dark) !important;
   }
 }
