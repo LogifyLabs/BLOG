@@ -97,26 +97,43 @@ footer {
 /* ==========================================
    Explorer(왼쪽 내비게이션) 파일 Hover 색상 고정
 ========================================== */
-/* Explorer(왼쪽 내비게이션) 글자 두께 조절 */
 .explorer {
-  /* 1. 기본 상태 (클릭 안 된 파일/폴더들) */
-  ul li > a {
+  /* 1. 폴더 이름 (00_Book 등) */
+  .folder-button {
     color: var(--dark) !important;
-    font-weight: 400 !important;  /* 기존 500~700에서 400으로 낮춰서 얇게 만듦 */
-    opacity: 0.8 !important;      /* 살짝 투명도를 주면 시각적으로 더 얇고 가볍게 느껴집니다 */
+    font-weight: 700 !important;
+    opacity: 1 !important;
   }
 
-  /* 2. 현재 보고 있는 파일 (클릭된 상태) */
+  /* 2. 클릭 안 된 일반 파일 - 스텔스 해제! 가독성 폭발! */
+  ul li > a {
+    color: var(--dark) !important; /* 다크모드에선 흰색, 라이트모드에선 검은색으로 알아서 바뀜 */
+    font-weight: 400 !important;   /* 너무 얇지 않게 정상 두께로 */
+    opacity: 0.75 !important;      /* 살짝만 흐리게 해서 폴더와 구분되면서도 잘 보이게 */
+    padding: 4px 8px !important;
+    display: block;
+  }
+
+  /* 3. ★현재 보고 있는 파일 (은은한 배경 + 포인트 텍스트)★ */
   ul li > a.active {
-    color: var(--secondary) !important;
-    font-weight: 700 !important;  /* 현재 페이지는 확실하게 두껍게 */
-    opacity: 1 !important;        /* 투명도 없이 쨍하게 */
+    color: #39a2db !important;       /* 글자색을 파란색으로 쨍하게 */
+    font-weight: 700 !important;     /* 두께는 두껍게 */
+    opacity: 1 !important;
+    
+    /* 눈뽕 방지: 파란색을 15% 투명도로 연~하게 깔아줍니다 */
+    background-color: rgba(57, 162, 219, 0.15) !important; 
+    
+    border-radius: 6px !important;
+    padding: 4px 10px !important;
+    margin: 2px 0;
+    box-shadow: none !important;     /* 과한 그림자 제거 */
   }
 
-  /* 3. 마우스 올렸을 때(Hover) */
-  ul li > a:hover {
-    opacity: 1 !important;        /* 마우스 올리면 다시 쨍해지게 */
-    font-weight: 600 !important;  /* 두께도 살짝만 두껍게 */
-    text-decoration: none !important; /* 밑줄이 거슬리면 none, 필요하면 underline */
+  /* 4. 마우스 올렸을 때 */
+  ul li > a:hover:not(.active) {
+    background-color: rgba(128, 128, 128, 0.15) !important; /* 마우스 올리면 회색 배경이 은은하게 */
+    opacity: 1 !important;
+    border-radius: 6px;
+    color: #39a2db !important; /* 글자는 파란색으로 반응 */
   }
 }
