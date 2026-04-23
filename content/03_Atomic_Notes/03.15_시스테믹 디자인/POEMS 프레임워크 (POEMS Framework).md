@@ -46,9 +46,3 @@ POEMS 프레임워크는 시스템의 **현재 상태(H1)**에 대한 데이터�
 
 **작성일:** 25-10-25
 
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)에 따라 이용할 수 있습니다.
-
-[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

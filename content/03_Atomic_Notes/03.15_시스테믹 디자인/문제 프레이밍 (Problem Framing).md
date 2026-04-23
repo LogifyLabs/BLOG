@@ -27,16 +27,3 @@
 
 시스테믹 디자인에서 프레이밍 오류는 전체 프로젝트의 실패로 이어질 수 있습니다. 잘못된 프레이밍은 낮은 레버리지 포인트에 개입하거나, 문제의 증상만을 다루는 단기적 해결책(시스템 원형의 '실패한 해결책')을 낳기 때문입니다. **효과적인 프레이밍**은 **변혁적 변화(Transformative Change)**의 첫걸음입니다.
 
----
-**Tags:** #문제정의 #시스템경계 #관점재구성 #연구질문 #MOC_시스테믹디자인
-
-**연결 노트:** [[연구 질문 (Research Question)]], [[시스템 이해 (System Understanding)]], [[리치 콘텍스트 (Rich Context)]], [[다중 인과 계층 분석 (Causal Layered Analysis - CLA)]], [[MOC_시스테믹 디자인]]
-
-**작성일:** 25-10-25
-
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)에 따라 이용할 수 있습니다.
-
-[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

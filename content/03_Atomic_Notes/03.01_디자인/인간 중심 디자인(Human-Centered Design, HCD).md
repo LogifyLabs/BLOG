@@ -1,3 +1,14 @@
+---
+tags:
+  - 디자인
+  - 도널드노먼
+---
+
+
+> [!info] MetaData
+> - **작성일:** 2025-10-12
+
+
 ## 정의
 
 인간 중심 디자인(Human-Centered Design, HCD)은 **사용자의 니즈, 행동, 맥락을 깊이 이해하고 공감하는 것에서 시작하여, 반복적인 프로토타이핑과 테스트를 통해 솔루션을 만들어가는 문제 해결 방법론**이다.
@@ -19,22 +30,3 @@
 ---
 
 _"Good design is actually a lot harder to notice than poor design, in part because good designs fit our needs so well that the design is invisible." - Don Norman_
-
----
-
-**Tags**: #Design #Human
-**연결 노트:**
-
-**작성일**: 2025-10-12
-
----
-
-
-
-
-
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
-
-[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

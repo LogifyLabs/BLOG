@@ -50,9 +50,3 @@
 
 **연결 노트:** [[MOC_계산하는 기계는 생각하는 기계가 될 수 있을까]], [[양립가능론적 자유 (Compatibilist Free Will)]], [[연결주의 (병렬분산처리, PDP)]]
 
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
-
-[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

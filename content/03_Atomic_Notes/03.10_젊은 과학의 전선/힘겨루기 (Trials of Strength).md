@@ -38,9 +38,3 @@
     
 - [[블랙박스(Black Box)]]` (힘겨루기에서 최종 승리한 결과물)
 
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
-
-[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

@@ -26,9 +26,3 @@ TOSCA는 이러한 요소들을 **[[피드백 루프 (Feedback Loop)]]**와 연�
 
 **작성일:** 25-10-25
 
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)에 따라 이용할 수 있습니다.
-
-[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

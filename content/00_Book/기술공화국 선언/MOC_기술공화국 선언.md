@@ -1,20 +1,26 @@
+---
+tags:
+  - 기술철학
+  - 실리콘밸리
+  - 팔란티어
+  - 문제해결
+  - 조직문화
+  - 온톨로지
+---
+
+
+> [!info] MetaData
+> - **한 줄 요약:** 길 잃은 실리콘밸리의 재건을 위한 청사진
+> - **저자:** 알렉스 카프
+>- **연결 노트:** [[2. 발제문_기술공화국 선언]]
+>- [도서 링크](https://product.kyobobook.co.kr/detail/S000217251615)
+>- **작성일:** 2025-10-19   
+
+
 ![[Pasted image 20251017152755.png]]
 
 
----
-# 기술공화국 선언
 
-> 길 잃은 실리콘밸리의 재건을 위한 청사진
-
-  
-
-**tags:** #책리뷰 #기술철학 #실리콘밸리 #팔란티어 #Logify #문제해결
-
-**reated:** 2025-10-19   
-
-**last updated:**
-
----
 
   
 
@@ -476,16 +482,6 @@
 
   
 
-**마지막 업데이트:** 2024-10-17  
-
-**관련 노트:** [[발제문_기술공화국 선언]]
-
-  
-
----
-
-  
-
 ## 이 글이 다루는 핵심
 
   
@@ -516,13 +512,4 @@
 
 소프트웨어는 현실을 재편하는 권력입니다. 극장이 아닌 진짜 가치를 만들어야 합니다.
 
----
 
-**연결 노트:** [[발제문_기술공화국 선언]]
-
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
-
-[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

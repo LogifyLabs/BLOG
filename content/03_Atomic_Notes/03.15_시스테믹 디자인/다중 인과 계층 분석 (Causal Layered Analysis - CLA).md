@@ -24,9 +24,3 @@ CLA는 문제의 인과 관계를 파악하고 사고의 폭(Worldview/Myth)을 
 
 **작성일:** 25-10-25
 
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)에 따라 이용할 수 있습니다.
-
-[hyeyum.people@gmail.com](mailto:hyeyum.people@gmail.com)

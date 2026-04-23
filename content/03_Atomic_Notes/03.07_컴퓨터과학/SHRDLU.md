@@ -18,9 +18,3 @@ SHRDLU는 간단한 블록들이 놓인 가상의 '미시세계(micro-world)' �
     
 - **넘지 못한 벽:** SHRDLU와 같은 프로그램의 실패는 AI 분야에 '상식의 문제'라는 거대한 화두를 던짐.
 
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
-
-[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

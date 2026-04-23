@@ -26,9 +26,3 @@ ANT가 '행위자' 대신 '행위소'라는 용어를 선호하는 이유는 [[�
     
 - [[번역 (Translation)]] (행위소들이 관계를 맺는 방식)
 
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
-
-[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

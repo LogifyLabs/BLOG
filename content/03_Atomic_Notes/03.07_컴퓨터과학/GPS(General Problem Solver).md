@@ -20,9 +20,3 @@ GPS는 논리 증명, 수학 문제 등 규칙이 명확하게 정의된 문제 
 - **핵심 작동 원리:** 목표와 현재 상태의 차이를 줄여나가는 방식으로, 많은 고전적 AI 계획 알고리즘의 토대가 됨.
 
 
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
-
-[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

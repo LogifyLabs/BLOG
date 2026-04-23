@@ -36,9 +36,3 @@
     
 - [[야누스의 두 얼굴 (Janus Head)]] (비인간 행위자의 역할은 '기성 과학'에서는 숨겨져 있음)
 
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
-
-[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

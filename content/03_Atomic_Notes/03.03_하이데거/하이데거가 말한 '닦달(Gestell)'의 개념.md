@@ -18,10 +18,3 @@
     
 
 간단히 말해, '닦달'은 **"모든 것을 계산 가능하고 통제 가능한 자원으로 만들어버리는 현대 기술의 지배적인 세계관"**이라고 정의할 수 있음.
-
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
-
-[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

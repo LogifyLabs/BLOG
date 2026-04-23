@@ -1,8 +1,6 @@
 ![[Pasted image 20251025232311.png]]
 
-# 🤖 MOC: Machine Learning (Stanford CS229)
-
-> [!info] 메타데이터
+> [!info] Metadata
 > 
 > - **강의:** [Stanford CS229 Machine Learning | Introduction | 2022](https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
 >     
@@ -15,6 +13,7 @@
 > - **목표:** 지도 학습, 비지도 학습, 강화 학습 등 머신러닝의 핵심 알고리듬과 수학적 원리를 마스터한다.
 >   
 > - 📹 **머신러닝 애니메이션 영상:** [Essential Machine Learning and AI Concepts Animated](https://www.youtube.com/watch?v=PcbuKRNtCUc)
+> - **연결 노트:**
 
 
 

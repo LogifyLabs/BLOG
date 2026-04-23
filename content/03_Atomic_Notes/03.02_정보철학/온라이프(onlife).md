@@ -25,12 +25,3 @@
 **연결 노트:** [[정보 철학자 루치아노 플로리디(Luciano Floridi)]], [[인포스피어(Infosphere)]], [[정보 철학(Philosophy of Information)]]
 
 **작성일**: 2025-10-12
-
----
-
-
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
-
-[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

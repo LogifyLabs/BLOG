@@ -33,10 +33,3 @@ ANT에 따르면, '사회'나 '자연'은 처음부터 존재하는 실체가 �
 - [[기성 과학 (Ready-made Science)]]
     
 - [[대변인 (Spokesperson)]] (행위자를 대변하는 행위자)
-
----
-
-_© 2025 Logify-Lab. Some Rights Reserved._  
-이 저작물은 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>에 따라 이용할 수 있습니다.
-
-[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

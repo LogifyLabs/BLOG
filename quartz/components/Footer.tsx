@@ -5,7 +5,7 @@ interface Options {
   links: Record<string, string>
 }
 
-export default ((opts?: Options) => {
+export default ((_opts?: Options) => {
   const Footer: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
