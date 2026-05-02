@@ -1,4 +1,4 @@
-![[11.png]]
+![[archive/90-Attachments/11.png]]
 
 # Logify Applied Ontology Research Notes
 
